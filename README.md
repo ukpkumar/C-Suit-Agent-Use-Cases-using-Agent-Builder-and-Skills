@@ -30,3 +30,9 @@ It is designed for leaders and their support teams (Chief of Staff, EA, analysts
 ## Outcome
 
 Use this content to stand up high-value executive agents quickly, with clear boundaries on data use, quality, and responsible AI behavior.
+
+## Full guide index
+
+Start here: **[Documentation Index](docs/INDEX.md)**
+
+The full guide is split into section pages so readers can jump directly to each topic and agent scenario.
